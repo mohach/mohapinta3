@@ -8,11 +8,6 @@ title = 'typo'
 extended = false
 min = "0.116.0"
 
-# Default config
-[params.breadcrumbs]
-enabled = true
-showCurrentPage = true
-home = "Home"
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
